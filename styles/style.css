@@ -54,6 +54,10 @@ header ul{
     font-weight: 600;
 }
 
+.btn:hover{
+    background:#096831;
+}
+
 #banner-section {
   background-image: url("../assets/hero-bg.png");
   background-repeat: no-repeat;
@@ -104,6 +108,10 @@ header ul{
     font-weight: 600;
     margin-bottom: 180px;
     margin-left: 10px;
+}
+
+.how-it-works-btn:hover{
+    background: #30B868;
 }
 
 #note-section{
