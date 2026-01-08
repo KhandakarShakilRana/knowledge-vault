@@ -196,3 +196,32 @@ header ul{
     margin-right: 6px;
 }
 
+.easy-action{
+    border-radius: 12px;
+    background: rgba(247, 246, 242, 1);
+    text-align: center;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    padding: 80px 40px;
+}
+
+.easy-heading{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+.easy-para{
+    font-size: 16px;
+    font-weight: 400;
+    color: #627382;
+    margin-bottom: 24px;
+
+}
+
+.easy-para-last{
+    margin-top: 16px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #627382;
+}
