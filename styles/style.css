@@ -52,6 +52,7 @@ header ul{
   background-image: url("../assets/hero-bg.png");
   background-repeat: no-repeat;
   background-size: cover;
+  width: 100%;
 }
 
 .banner-info{
@@ -98,4 +99,53 @@ header ul{
     font-weight: 600;
     margin-bottom: 180px;
     margin-left: 10px;
+}
+
+#note-section{
+    text-align: center;
+}
+
+.note-heading{
+    font-size: 48px;
+    font-weight: 800;
+    color: #001931;
+    margin-top: 65px;
+    margin-bottom: 16px;
+}
+
+.note-para{
+    color: #627382;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 44px;
+}
+
+.note-info{
+    display: flex;
+    gap: 24px;
+}
+
+.note-cards{
+    box-shadow: 5px 5px 10px 2px #0000001d;
+    padding: 50px 45px;
+}
+
+.note-cards img{
+    background: #f95555;
+    padding: 25px;
+    border-radius: 50%;
+    margin-bottom: 16px;
+}
+
+.note-cards h2{
+    font-size: 24px;
+    font-weight: 600;
+    color: #001931;
+    margin-bottom: 16px;
+}
+
+.note-cards p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #627382;
 }
