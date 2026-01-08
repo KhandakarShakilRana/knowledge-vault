@@ -46,3 +46,7 @@ header ul{
     border-radius: 4px;
     font-weight: 600;
 }
+
+#banner-section{
+    background-image: url(../assets/hero-bg.png);
+}
