@@ -202,7 +202,7 @@ header ul{
     text-align: center;
     margin-top: 120px;
     margin-bottom: 120px;
-    padding: 80px 40px;
+    padding: 80px 0px;
 }
 
 .easy-heading{
@@ -224,4 +224,51 @@ header ul{
     font-size: 16px;
     font-weight: 400;
     color: #627382;
+}
+
+footer{
+    background-color: #001931;
+    padding: 120px 0 30px 0;
+    text-align: center;
+}
+
+.footer-logo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.f-logo{
+    width: 139px;
+    height: 60px;
+}
+
+.socials{
+    margin-right: 107px;
+}
+
+.socials h2{
+    font-size: 20px;
+    font-weight: 500;
+    color:white;
+}
+
+.social-logo img{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    border-radius: 50%;
+    margin-right: 10px;
+    padding:6px;
+    margin-top: 16px;
+}
+
+hr{
+    margin-top: 84px;
+}
+
+.copyright{
+    font-size: 16px;
+    font-weight: 400;
+    color: #fafafa;
+    margin-top: 30px;
 }
